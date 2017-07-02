@@ -19,7 +19,7 @@ docs does?
     1) Commit only when there is a logical change, for example when you change two unrelated bugs.
     2)Avoids too many unnecessary commit points , being difficult to find the needed one.
     The cons of manual saving -
-    1)It does not help forgetful users.
+    1)It does not help forgetful users .
     
 
 Why do you think some version control systems, like Git, allow saving multiple
