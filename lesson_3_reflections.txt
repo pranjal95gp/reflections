@@ -1,2 +1,5 @@
 When would you want to create a remote repository rather than keeping all your work local?
 This is when I either work from different places , or when I have to collaborate with other people on my project. I will also use remote repository for backup purposes.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+This may be due to experimentation purpose. If we are working with collaboration of others, or just try some things out , we might just pull codes from GitHu, and tru on our own , without being interfered by other changes . ( But I guess , branching is for that purpose, so I am not sure).
