@@ -9,11 +9,14 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+By using branch I can redirect my project flow into more than one commit-streams.
 
 How do the diagrams help you visualize the branch structure?
+Digrams of branches visually represent all the commit points in the structure of a branches, with new branches emerging at the point where new commit points were create.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging two branches togather is like combining the changes of two branches from after the point of the diverion of the branch(s). We represent it in the way we do, that is by intersecting and joining the branches, because all the changes on the branches with respect to the diversion commit node really combine togather. The log also intermixes on the basis of timestamp of each commit.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
